@@ -7,6 +7,8 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
+    android:layout_margin="10dp"
+    android:fadingEdge="vertical"
     android:id="@+id/list"
     style="@style/CategoryStyle"
     android:background="#fff">
